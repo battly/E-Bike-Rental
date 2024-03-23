@@ -1,0 +1,26 @@
+<Customers>
+  <Customer>
+    <Guid>3b2b8a05-4591-42d0-8da9-a032a1f2e643</Guid>
+    <FirstName>Someone</FirstName>
+    <LastName>New</LastName>
+    <Address>Somewhere</Address>
+    <AMLicence>False</AMLicence>
+    <IBAN>DE02120300000000202051</IBAN>
+  </Customer>
+  <Customer>
+    <Guid>cb7a6727-5475-4351-84f6-f3b297fb40a1</Guid>
+    <FirstName>Rilind</FirstName>
+    <LastName>Harizaj</LastName>
+    <Address>Universität</Address>
+    <AMLicence>True</AMLicence>
+    <IBAN>Barzahlung</IBAN>
+  </Customer>
+  <Customer>
+    <Guid>5b07abd9-e3d8-44cf-afe8-a41d6b7b18df</Guid>
+    <FirstName>Almi</FirstName>
+    <LastName>Harizaj</LastName>
+    <Address>Somewhere</Address>
+    <AMLicence>False</AMLicence>
+    <IBAN>Barzahlung</IBAN>
+  </Customer>
+</Customers>

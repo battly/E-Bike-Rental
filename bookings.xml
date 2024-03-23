@@ -1,0 +1,52 @@
+<Bookings>
+  <Booking>
+    <Guid>f7949a9c-eff1-4d58-95d7-e474da73265e</Guid>
+    <Customer>
+      <Guid>3b2b8a05-4591-42d0-8da9-a032a1f2e643</Guid>
+      <FirstName>Someone</FirstName>
+      <LastName>New</LastName>
+      <Address>Somewhere</Address>
+    </Customer>
+    <EBikeCategory>
+      <Guid>748a3478-633c-4066-a82b-a3eadf5321d6</Guid>
+      <Name>Stadt</Name>
+      <RentalPricePerDay>20</RentalPricePerDay>
+      <RentalPricePerWeek>140</RentalPricePerWeek>
+      <MaxSpeed>13</MaxSpeed>
+    </EBikeCategory>
+    <EBike>
+      <Guid>823dc86c-a8c9-472a-943b-5541096fa5fb</Guid>
+      <Producer>Ford</Producer>
+      <Model>Fog</Model>
+      <Performance>132</Performance>
+    </EBike>
+    <StartDate>10.10.2022 00:00:00</StartDate>
+    <EndDate>20.10.2022 00:00:00</EndDate>
+    <TotalPrice>200</TotalPrice>
+  </Booking>
+  <Booking>
+    <Guid>7db108ec-7bcf-4d97-9d6f-e656810f244b</Guid>
+    <Customer>
+      <Guid>5b07abd9-e3d8-44cf-afe8-a41d6b7b18df</Guid>
+      <FirstName>Almi</FirstName>
+      <LastName>Harizaj</LastName>
+      <Address>Somewhere</Address>
+    </Customer>
+    <EBikeCategory>
+      <Guid>748a3478-633c-4066-a82b-a3eadf5321d6</Guid>
+      <Name>Stadt</Name>
+      <RentalPricePerDay>20</RentalPricePerDay>
+      <RentalPricePerWeek>140</RentalPricePerWeek>
+      <MaxSpeed>13</MaxSpeed>
+    </EBikeCategory>
+    <EBike>
+      <Guid>530cf036-8078-4425-a7db-70790618abba</Guid>
+      <Producer>Lindi</Producer>
+      <Model>Lil</Model>
+      <Performance>100</Performance>
+    </EBike>
+    <StartDate>04.11.2022 00:00:00</StartDate>
+    <EndDate>08.11.2022 00:00:00</EndDate>
+    <TotalPrice>80</TotalPrice>
+  </Booking>
+</Bookings>
